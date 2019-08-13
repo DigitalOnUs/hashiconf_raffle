@@ -3,12 +3,14 @@ locals {
       "Gonzalo Lopez",
       "Panchito",
       "Oscar",
+      "Falcon",
       "Pedro",
       "Monse",
   ]
   certified = [
       "Gonzalo Lopez",
       "Panchito",
+      "Falcon",
       "Oscar",
   ]
 }
